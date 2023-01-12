@@ -7,7 +7,6 @@ import streamlit as st
 pipe = pickle.load(open("pipe.pkl", "rb"))
 df = pickle.load(open("df.pkl", "rb"))
 
-# print((df["Company"].unique()))
 
 
 st.title("Laptop Predictor")
