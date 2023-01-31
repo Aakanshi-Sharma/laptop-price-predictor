@@ -2,4 +2,5 @@
 
 ## Overview
 
-It is the application that predicts the price of price having various properties.
+It is the application that provides a tentative price of laptop according to the user configurations.
+
